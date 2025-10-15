@@ -24,14 +24,8 @@ python filename.py
 ---
 
 
-| Problem | Problem Link | Output |
+| Main Problems | Problem Link | Output |
 |------------|---------------|---------|
-| **✨ Warm-Up Tasks** |  |  |
-| W1 | [Draw the National Flag of Bangladesh](flag_of_bangladesh.py) | ![National Flag](img/w1_flag_bangladesh.png) |
-| W2 | [Write Your Name with Animation](animated_name.py) | ![Animated Name](img/w2_animated_name.png) |
-| W3 | [Simulate a Scene of Traveling Through Space](space_travel_simulation.py) | ![Space Travel](img/w3_space_travel.png) |
-|  |  |  |
-| **🧪 Main Problems** |  |  |
 | 1 | [Bresenham Line Drawing Algorithm.py](https://github.com/Shakil-RU/CSE4222-Computer-Graphics-Lab/blob/main/Main%20Problems/1.%20Bresenham%20Line%20Drawing%20Algorithm.py) | ![Line Drawing](https://github.com/Shakil-RU/CSE4222-Computer-Graphics-Lab/blob/main/Images/1.png) |
 | 2 | [Midpoint Circle Drawing Algorithm.py](https://github.com/Shakil-RU/CSE4222-Computer-Graphics-Lab/blob/main/Main%20Problems/2.%20Midpoint%20Circle%20Drawing%20Algorithm.py) | ![Circle Drawing](https://github.com/Shakil-RU/CSE4222-Computer-Graphics-Lab/blob/main/Images/2.png) |
 | 3 | [Two Dimensional Geometric Translation.py](https://github.com/Shakil-RU/CSE4222-Computer-Graphics-Lab/blob/main/Main%20Problems/3.%20Two%20Dimensional%20Geometric%20Translation.py) | ![2D Translation](https://github.com/Shakil-RU/CSE4222-Computer-Graphics-Lab/blob/main/Images/3.png) |
